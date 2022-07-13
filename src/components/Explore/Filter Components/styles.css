@@ -1,0 +1,46 @@
+#filter-scroll::-webkit-scrollbar {
+  width: 10px;
+  box-shadow: inset 0 0 5px rgba(128, 128, 128, 0);
+}
+#filter-scroll::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px #a3aab000;
+  border-radius: 7px;
+}
+
+#filter-scroll::-webkit-scrollbar-thumb {
+  background: #8b9dac;
+  border-radius: 7px;
+}
+
+#filter-scroll::-webkit-scrollbar-thumb:hover {
+  background: #1a77bf;
+}
+
+.paginationbtns a {
+  padding: 10px;
+  margin: 2px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.paginationbtns a:hover {
+  color: #1a77bf;
+  text-decoration: underline;
+}
+
+.paginationActive {
+  color: #1a77bf;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+#tooltipShadow {
+  border-radius: 12px;
+  box-shadow: 0 5px 15px rgb(0 0 0 / 0.15);
+}
+
+#removeArrow1::-webkit-outer-spin-button,
+#removeArrow1::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}

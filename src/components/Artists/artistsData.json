@@ -1,0 +1,119 @@
+[
+  {
+    "username": "adamay",
+    "displayName": "Adamay Mann",
+    "image": "https://ik.imagekit.io/ad123/IMG_20220620_174044_wf0-bmk_H.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1657254352394",
+    "expertise": [
+      {
+        "id": 1,
+        "Expertise": "Figurines",
+        "color": "#EAC1C1"
+      },
+      {
+        "id": 2,
+        "Expertise": "Car Parts",
+        "color": "#DFD1F0"
+      },
+      {
+        "id": 3,
+        "Expertise": "Abstract",
+        "color": "#D1F0EC"
+      },
+      {
+        "id": 4,
+        "Expertise": "Furniture",
+        "color": "#F0E8D1"
+      },
+      {
+        "id": 5,
+        "Expertise": "Electronics",
+        "color": "#F0D1E8"
+      }
+    ]
+  },
+  {
+    "username": "sukrit__sethi",
+    "displayName": "Sukrit Sethi",
+    "image": "https://ik.imagekit.io/ad123/ss_0OqQU9xbs.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1657254354314",
+    "expertise": [
+      {
+        "id": 1,
+        "Expertise": "Abstract",
+        "color": "#D1F0EC"
+      },
+      {
+        "id": 2,
+        "Expertise": "Furniture",
+        "color": "#F0E8D1"
+      }
+    ]
+  },
+  {
+    "username": "placeholder",
+    "displayName": "Place Holder",
+    "image": "https://ik.imagekit.io/ad123/profile_53mYrdv_v.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1657254353515",
+    "expertise": [
+      {
+        "id": 1,
+        "Expertise": "Electronics",
+        "color": "#F0D1E8"
+      },
+      {
+        "id": 2,
+        "Expertise": "Characters",
+        "color": "#D2F0D1"
+      }
+    ]
+  },
+  {
+    "username": "johnDoe",
+    "displayName": "John Doe",
+    "image": "https://ik.imagekit.io/ad123/profile_kz1CBYZ4s.png?ik-sdk-version=javascript-1.4.3&updatedAt=1657254303666",
+    "expertise": [
+      {
+        "id": 1,
+        "Expertise": "Car Parts",
+        "color": "#DFD1F0"
+      },
+      {
+        "id": 2,
+        "Expertise": "Abstract",
+        "color": "#D1F0EC"
+      }
+    ]
+  },
+  {
+    "username": "janeDoe",
+    "displayName": "Jane Doe",
+    "image": "https://ik.imagekit.io/ad123/profile_53mYrdv_v.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1657254353515",
+    "expertise": [
+      {
+        "id": 1,
+        "Expertise": "Car Parts",
+        "color": "#DFD1F0"
+      },
+      {
+        "id": 2,
+        "Expertise": "Electronics",
+        "color": "#F0D1E8"
+      }
+    ]
+  },
+  {
+    "username": "activeUser",
+    "displayName": "Active User",
+    "image": "https://ik.imagekit.io/ad123/profile_kz1CBYZ4s.png?ik-sdk-version=javascript-1.4.3&updatedAt=1657254303666",
+    "expertise": [
+      {
+        "id": 1,
+        "Expertise": "Characters",
+        "color": "#D2F0D1"
+      },
+      {
+        "id": 2,
+        "Expertise": "Furniture",
+        "color": "#F0E8D1"
+      }
+    ]
+  }
+]
